@@ -1,10 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Madhur Chaturvedi</h1>
-<h3 align="center">A passionate Full-Stack developer & Software Engineer from India</h3>
-<h1 align="center">Amazon product page</h1>
+<h1 align="center">Login Auth </h1>
 <h3 align="center">✅ Summary✅ </h3>
 <p  align="center" >
-  In a React.js and CSS project, I successfully cloned an Amazon product page, enhancing it with the ability to filter and search for items, providing an interactive and functional online shopping experience.
+  Authentication: The process of verifying the identity of a user, usually through a combination of a username and password.
+
+Authorization: Determining whether a user has the necessary permissions to access certain resources or perform specific actions after authentication.
+
+Login: The process by which a user provides their credentials (username and password) to access a system or application.
+
+Registration: The process by which a user creates a new account by providing necessary information and credentials.
+
+Dashboard: The main interface or page that a user sees after successfully logging in. It typically provides an overview of key information or features.
+
+Unauthorized Access: Attempted access to a resource or feature without the necessary authentication or authorization.
+
+Redirect: Sending the user from one URL to another after a certain action, such as a successful login.
 </p>
 <h3 align="center">Technology</h3>
 <p align="center" style={{display: flex;
