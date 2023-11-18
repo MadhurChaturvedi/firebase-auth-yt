@@ -1,10 +1,6 @@
-
-<p align="center" style={{display: flex;
-    justify-content: space-around;}}>
-<div align="center">
   ![Screenshot (54)](https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/cebda8ef-aa4b-46b4-bd97-f48d73f7ae5c)
-</div> 
-</p>     
+
+
 
 
 
