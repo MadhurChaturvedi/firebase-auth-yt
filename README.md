@@ -19,5 +19,7 @@
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="angular" width="40" height="40"/> 
    <img src="https://blog.leonhassan.co.uk/content/images/2019/01/react-1.svg" width="40" height="40"/> 
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/> 
+   <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="40" height="40"/> 
+   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40" height="40"/> 
 </p>     
 <div align="center">
