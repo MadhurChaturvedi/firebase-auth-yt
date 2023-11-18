@@ -1,7 +1,9 @@
   ![Screenshot (54)](https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/cebda8ef-aa4b-46b4-bd97-f48d73f7ae5c)
 
+![Screenshot (55)](https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/750c5c99-ae6b-4fc9-9b66-b1d4648c2fad)
 
 
+![Screenshot (58)](https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/ef668bad-1692-48ca-bc99-a3d8bed8395e)
 
 
 
