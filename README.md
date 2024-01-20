@@ -2,13 +2,11 @@
 <h3>Test Case: 1</h3>
 </div>
 
-![Screenshot (54)](https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/cebda8ef-aa4b-46b4-bd97-f48d73f7ae5c)
-
-![Screenshot (55)](https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/750c5c99-ae6b-4fc9-9b66-b1d4648c2fad)
-
-![Screenshot (58)](https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/ef668bad-1692-48ca-bc99-a3d8bed8395e)
-
-
+<div align="center">
+  <img width="450" src="https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/cebda8ef-aa4b-46b4-bd97-f48d73f7ae5c" alt="img" />
+  <img width="450" src="https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/750c5c99-ae6b-4fc9-9b66-b1d4648c2fad" />
+  <img width="450" src="https://github.com/MadhurChaturvedi/firebase-auth-yt/assets/93113162/ef668bad-1692-48ca-bc99-a3d8bed8395e" alt="img" />
+</div>
 
 <h1 align="center">Login Auth </h1>
 <h3 align="center">✅ Summary✅ </h3>
@@ -33,5 +31,16 @@
    <img src="https://seeklogo.com/images/M/mui-logo-56F171E991-seeklogo.com.png" width="40" height="40"/> 
    <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="40" height="40"/> 
    <img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" width="40" height="40"/> 
-</p>     
-<div align="center">
+</p> 
+
+```bash
+npm install
+```
+<p align="center" style="color:red;font-size:2rem;font-weight:900">IF THIS IS NOT WORKING PLS TRY THIS</p>
+
+```bash
+npm install --force
+```
+```bash
+cd firebase-auth
+```
